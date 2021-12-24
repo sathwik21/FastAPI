@@ -68,27 +68,5 @@ def delete_freelancer(name: str):
     conn.commit()
     return f"User {name} deleted"
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 # cur.close()
 # conn.close()
